@@ -35,7 +35,7 @@ public class vehiculoGeneral extends absVehiculo implements direccion{
     //fin constructor
     
     public void decirTpVehiculo(){        
-        System.out.println("es : " + this.nombre);
+        System.out.println("es : " + getNombre());
     }
 
     @Override

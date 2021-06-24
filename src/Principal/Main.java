@@ -15,8 +15,11 @@ import Automoviles.Carretera;
 public class Main {
     
     public static void main(String args[]){
+        
+        System.out.println("empezamos ");
         Carretera iniciamos = new Carretera();
         iniciamos.aCarretera();
+        System.out.println("terminamos ");
     }
     
     

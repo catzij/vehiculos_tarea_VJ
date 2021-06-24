@@ -1,3 +1,4 @@
 //ignorara_compilados
 *.class
 build/
+/dist/
